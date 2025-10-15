@@ -35,13 +35,13 @@
     
 // }
 
-// const infor = {
-//     name: 'Linh',
-//     age: 18,
-//     mail: 'fi25dgs3@gmail.com',
-//     address: {
-//         stress: 'Le Duc Tho',
-//         city: 'Ha Noi'
+const infor = {
+    name: 'Linh',
+    age: 18,
+    mail: 'fi25dgs3@gmail.com',
+    address: {
+        stress: 'Le Duc Tho',
+        city: 'Ha Noi'
 //     },
 //     hobby: ['sleep', 'read book', 'trip to Ha Noi'],
 
