@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+.h2 {
+    color: aqua;
+    background-color: black;
+}
+#h3{
+    color: yellowgreen;
+}
+.h3
+{
+    color: #000;
+}
+h3{
+    color: violet !important;
+}
+
+/* GOOGLE FONTS */
